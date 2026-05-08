@@ -2,23 +2,30 @@
 Aplicación Android nativa
 ---
 
-**NeuroBase** es una aplicación de **preguntas y respuestas** tipo juego educativo.
+**NeuroBase** es una aplicación de **preguntas y respuestas** tipo juego educativo para practicar exámenes con respuesta múltiple enfocada en psicobiología.
 
-## Instalación y ejecución del proyecto 
+## Instalación y ejecución del proyecto   
+
+## sdk utilizado
+
+- minSdk: 24
+- targetSdk: 35
+- compileSdk: 35
 
 ## Requisitos técnicos
 
-- Android Studio
-- Android SDK
-- Gradle
-- Emulador Android o dispositivo físico
-- Git (opcional)
+- targetSdk 35 y compileSdk 35 no funcionan con Android Studio antiguo
+- Android Studio Koala o superior
+
+## Lenguaje
+
+Kotlin
 
 ### **Paso 1: Obtener el proyecto**
 
 El proyecto puede obtenerse de **dos formas**:
 
-**Opción A: Clonar el repositorio (recomendado)**  
+**Opción A: Clonar el repositorio**  
 bash
 git clone https://github.com/PedrazaR28/Proyecto-app-andrioid-NEURO-BASE.git
 
